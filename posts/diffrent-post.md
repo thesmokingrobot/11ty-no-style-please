@@ -1,7 +1,16 @@
 ---
-title: Diffrent post
+title: Eating cheese at a restuarant
 date: 2022-08-28T10:56:40.093Z
 tags:
   - post
 ---
-This is a filler post to showcase how the menu looks.
+I am going to 
+
+
+
+``
+
+```
+a <- 10
+a[20]
+```
