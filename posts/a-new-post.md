@@ -17,13 +17,11 @@ ideally whilst listening to some smooth jazz.
 
 ![](/media/swiss_img1.jpg)
 
-if you're honest about your views on asset returns, it's unlikely they switch between discrete
-states of wanting to be long, flat, or short.
+if you're honest about your views on asset returns, it's unlikely they switch between discrete states of wanting to be long, flat, or short.
 
 ![](/media/swiss_img2.jpg)
 
-they're more likely to evolve more continuously than that, as old information becomes stales
-and new information arrives.
+they're more likely to evolve more continuously than that, as old information becomes stale and new information arrives.
 
 (you might say that your forecasts are "autocorrelated".)
 
@@ -39,7 +37,7 @@ you can gently flex them to the conditions:
 
 in stat arby or positional stuff i don't think about entries or exits - i don't even really care how many positions I have on.
 
-i'm just gently and almost continuously nudging to trade towards things I like and away from things I like less.
+i'm just gently and almost continuously nudging to trade towards things I like and away grom things I like less.
 
 let me give an example from a conversation with a friend earlier today.
 
@@ -47,8 +45,9 @@ let's say, for simplicity, that he's trading a universe of 3 assets.
 
 every few hours, he ranks them by expected returns.
 
-and trades so that he is equal weighted long the top one, and short the bottom one
-In this case, if his views look like this, he'd be positioned:
+and trades so that he is equal weighted long the top one, and short the bottom one.
+
+in this case, if his views look like this, he'd be positioned:
 
 * 50% Short A
 * 50% Short C
