@@ -100,8 +100,7 @@ gently, gently.
 
 focus on trading costs.
 
-you want to be gently trading out of the things you like less, into the things you like more, in 
-a cost-effective way.
+you want to be gently trading out of the things you like less, into the things you like more, in a cost-effective way.
 
 
 
