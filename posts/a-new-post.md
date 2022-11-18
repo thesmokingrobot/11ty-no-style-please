@@ -13,3 +13,4 @@ you want to do it gently, little by little.
 
 ideally whilst listening to some smooth jazz.
 
+[cl﻿ick here to read full thread](media/threadreader_0_therobotjames_1540190487369613312.pdf)
