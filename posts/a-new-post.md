@@ -1,7 +1,15 @@
 ---
-title: A new post
-date: 2022-11-15T07:44:35.202Z
+title: rebalancing exposures is a lot like making love to a beautiful woman
+date: 2022-10-12T07:44:35.202Z
 tags:
   - post
 ---
-T﻿his is gonna be a super good one.
+rebalancing exposures is a lot like making love to a beautiful
+woman.
+
+you don't want to do it abruptly.
+
+you want to do it gently, little by little.
+
+ideally whilst listening to some smooth jazz.
+
