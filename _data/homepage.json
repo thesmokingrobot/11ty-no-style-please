@@ -3,19 +3,24 @@
   "subtitle": "beep...boop",
   "menu": [
     {
-      "title": "where to find me",
+      "title": "i'm doing zoom lessons, free to anyone who wants to attend",
       "entries": [
-        {
-          "title": "i'm on twitter here",
-          "url": "https://twitter.com/therobotjames"
-        },
         {
           "title": "28 nov zoom lesson free to anyone: basics of edge extraction",
           "url": "https://us02web.zoom.us/webinar/register/WN_NAVyATbWTVWt_RHrqTmMrg"
         },
         {
-          "title": "6 dec zoom lesson free to anyone: data analysis for traders",
-          "url": "https://us02web.zoom.us/webinar/register/WN_f2l3_L7_TcuzmzP27w0GhQ"
+          "title": "6 dec zoom lesson free to anyone: data analysis for traders"
+        }
+      ],
+      "url": "https://us02web.zoom.us/webinar/register/WN_f2l3_L7_TcuzmzP27w0GhQ"
+    },
+    {
+      "title": "where to find me",
+      "entries": [
+        {
+          "title": "i'm on twitter here",
+          "url": "https://twitter.com/therobotjames"
         },
         {
           "title": "i'm on substack here (i ain't written nuffin' yet)",
