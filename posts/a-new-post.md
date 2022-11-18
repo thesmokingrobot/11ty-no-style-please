@@ -13,19 +13,21 @@ you want to do it gently, little by little.
 
 ideally whilst listening to some smooth jazz.
 
-<﻿img1>
+
+
+![](/media/swiss_img1.jpg)
 
 if you're honest about your views on asset returns, it's unlikely they switch between discrete
 states of wanting to be long, flat, or short.
 
-<﻿img2>
+![](/media/swiss_img2.jpg)
 
 they're more likely to evolve more continuously than that, as old information becomes stales
 and new information arrives.
 
 (you might say that your forecasts are "autocorrelated".)
 
-<﻿img 3>
+![](/media/swiss_img3.jpg)
 
 if your views evolve slowly, there's no reason your exposures should change abruptly
 between in or out or short.
@@ -51,6 +53,8 @@ In this case, if his views look like this, he'd be positioned:
 * 50% Short A
 * 50% Short C
 
+![](/media/swiss_img4.jpg)
+
 now stuff happens in the market.
 
 old info becomes irrelevant.
@@ -64,7 +68,7 @@ now B has (slightly) higher expected returns than A, so according to his rules, 
 * Sells A
 * Buys B to replace it.
 
-<﻿img4>
+![](/media/swiss_img7.jpg)
 
 but that's an awful lot of trading for a tiny increase in expected returns.
 
@@ -74,7 +78,7 @@ that's abrupt. unnecessary.
 
 that's no way to make love to a beautiful woman.
 
-<﻿img5>
+![](/media/swiss_img5.jpg)
 
 you want to be gentler than this.
 
@@ -94,7 +98,9 @@ s﻿o, following your first set of trades, you might now be positioned like this
 * 10% Long B
 * 50% Short C
 
-<﻿img 6>
+
+
+![](/media/swiss_img6.jpg)
 
 gently, gently.
 
@@ -102,10 +108,6 @@ focus on trading costs.
 
 you want to be gently trading out of the things you like less, into the things you like more, in a cost-effective way.
 
-
-
 ["﻿sometimes you gotta make some love a f\*\*kin give her some smooches too"](https://www.youtube.com/embed/zliY-MrI0mY)
-
-
 
 b﻿eep...boop
