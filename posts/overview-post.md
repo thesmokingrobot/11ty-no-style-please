@@ -1,64 +1,66 @@
 ---
-title: Overview post
+title: carrywhoring
 date: 2022-08-28T12:37:53.328Z
 tags:
   - post
 ---
+one of the  regrettable features of many quantifiable things that make
+ money is they often make money most of the time, but tend to 
+smack you in the face occasionally. usually at the worst
+possible time. 
 
-Pariatur excepteur aliquip proident aute. Cillum Lorem esse voluptate aliquip ad pariatur ullamco non dolore sint exercitation eu et. Ullamco et aliqua ea ut mollit nulla in nostrud.
+carry trades, long stocks, vol selling, most quant relative value
+trades.
 
+clearly, you'd rather have a nice positively skewed return profile with the chance of making
+lots of money occasionally rather than losing lots of money.
 
-Commodo adipisicing occaecat consectetur magna do. Non amet sint velit velit incididunt in cupidatat elit magna ullamco. Velit eu qui elit irure in dolore in aute laborum.
+but the things we like and make us comfortable tend to be in high demand and, therefore,
+tend to be expensive.
 
-# Sample heading 1
-## Sample heading 2
-### Sample heading 3
-#### Sample heading 4
-##### Sample heading 5
-###### Sample heading 6
+so these "comfort" trades tend to be, at least on average, suckers bets.
 
+we should be looking to sell people what they think they want to make themselves
+comfortable.
 
-Proident nostrud qui fugiat in culpa mollit ullamco minim fugiat veniam qui qui mollit sit. Fugiat duis consectetur nulla aliquip officia voluptate proident exercitation sint fugiat laborum. Lorem cupidatat nulla reprehenderit ex amet non dolore labore do.
+not looking to buy that comfort for ourselves.
 
-## Lists
+at least if we like making money, anyway...
 
-Unordered:
-- Consequat exercitation nulla reprehenderit occaecat consequat veniam nisi non.
-- Mollit et ipsum eu irure et exercitation excepteur occaecat anim cupidatat aute.
-- Commodo Lorem Lorem sit esse cupidatat laboris sunt duis eiusmod.
+this is one reason carry trades and other forms of risk premia harvesting are expected to
+make money.
 
-Ordered:
+because it sucks to hold those exposures.
 
-1. Ex voluptate laborum amet ullamco culpa sunt aliqua.
-2. Cupidatat sunt consequat aliqua eu amet veniam cillum mollit.
-3. Laborum laboris excepteur nisi exercitation adipisicing culpa reprehenderit dolore proident quis.
+"it's only a matter of time, bro."
 
-## Blockquote
+it sucking is why you expect to get paid.
 
-> Anim velit pariatur laboris aliquip laborum minim. Commodo commodo ea nulla eu proident ullamco irure do quis. Consequat laborum qui elit voluptate cillum. Culpa ea velit nulla labore labore pariatur aute quis. Magna ad aliqua in magna eiusmod laboris in dolor.
+if it didn't suck, why would it be too cheap? 
 
-## Horizontal line
----
+so you might identify that there are returns to be harnessed from these kind of trades - but that doesn't mean you're not going to get rekt.
 
-Do id labore occaecat enim sint id fugiat occaecat amet Lorem dolore veniam in sit. Ea officia proident deserunt est incididunt commodo laborum. Occaecat commodo consectetur velit enim incididunt esse id aliquip Lorem labore et pariatur duis non.
+especially if you are a bit green - not yet respectful of the wrath of the market gods.
 
-## Code
+so... much care and humility is required.
 
-```
-eleventyComputed: {
-    title: data => data.title || data.page.filePathStem.split('/').pop(),
-    layout: "post.njk"
-}
-```
+one particular trap many fall in is thinking they are doing something very clever.
 
-And `inline code`
+you're running some relative value convergence stuff - you're making money consistently high risk adjusted returns.
 
-## Tables
+so far...
 
-| This | Is | a | Table | 
-| --- | --- | --- | ---
-| with | some | content | !
+don't get carried away.
 
-## Links
-[link to repo](http://github.com/stopnoanime/11ty-no-style-please)
+don't think you've turned into Jim Simons.
 
+"it's only a matter of time, bro."
+
+you're "being paid" to take on tail risk.
+
+that's not a bad thing, per se, as long as you know that's what you're doing. And you size and
+diversify accordingly.
+
+but it's lethal if you forget that's what you're being paid for.
+
+beep...boop
