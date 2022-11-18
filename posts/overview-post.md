@@ -4,16 +4,11 @@ date: 2022-08-03T12:37:53.328Z
 tags:
   - post
 ---
-one of the  regrettable features of many quantifiable things that make
- money is they often make money most of the time, but tend to 
-smack you in the face occasionally. usually at the worst
-possible time. 
+one of the  regrettable features of many quantifiable things that make money is they often make money most of the time, but tend to smack you in the face occasionally. usually at the worst possible time. 
 
-carry trades, long stocks, vol selling, most quant relative value
-trades.
+carry trades, long stocks, vol selling, most quant relative value trades.
 
-clearly, you'd rather have a nice positively skewed return profile with the chance of making
-lots of money occasionally rather than losing lots of money.
+clearly, you'd rather have a nice positively skewed return profile with the chance of making lots of money occasionally rather than losing lots of money.
 
 but the things we like and make us comfortable tend to be in high demand and, therefore,
 tend to be expensive.
