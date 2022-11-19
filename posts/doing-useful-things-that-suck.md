@@ -6,7 +6,7 @@ tags:
 ---
 c﻿ommon argument... 
 
-<points at prop trading firm with ultra-low latency infrastructure and sophisticated modeling techniques>
+*points at prop trading firm with ultra-low latency infrastructure and sophisticated modeling techniques*
 
 "﻿you, an individual, could never compete with that"
 
