@@ -38,7 +38,7 @@ freedom than trading a single leg.
 
 so, you could just trade the leg you think is mispriced and wear the market risk.
 
-> Short A
+> short A
 
 this is often acceptable if you're taking a lot of trades: either by turning over fast, or trading
 broad (lots of different stuff).
