@@ -62,7 +62,7 @@ maybe because they are noisy, blunt, slow converging edges?
 
 harnessing them requires taking on a lot of variance, relative to the expected returns.
 
-so they are not super-competitive games. They might just be ones that you can compete in.
+so they are not super-competitive games. they might just be ones that you can compete in.
 
 exchange a bit more variance for easier returns.
 
