@@ -59,3 +59,11 @@ diversify accordingly.
 but it's lethal if you forget that's what you're being paid for.
 
 beep...boop
+
+.﻿.
+
+.﻿.
+
+e﻿ntertaining heckle from @macrocephalopod on twitter on this one:
+
+![](/media/macrocephalopod.png)
