@@ -12,14 +12,11 @@ one of the most effective ways to compete is to be more willing or smarter about
 
 risk assets tend to trade significantly cheaper than the expected value of their cash flows.
 
-that's cos their cashflows are uncertain and the attractiveness of those cashflows dependent 
-on all kinds of uncertain things like shocks in inflation, rates, growth, politics etc.
+that's cos their cashflows are uncertain and the attractiveness of those cashflows dependent on all kinds of uncertain things like shocks in inflation, rates, growth, politics etc.
 
-so, in exchange for taking on those risks, you receive higher expected returns than the trader 
-or investor who avoids them.
+so, in exchange for taking on those risks, you receive higher expected returns than the trader or investor who avoids them.
 
-but you have to be smart about how you take on and manage these risks - or you'll get
-yourself rekt.
+but you have to be smart about how you take on and manage these risks - or you'll get yourself rekt.
 
 diversification, sizing, and (maybe) tail hedging.
 
@@ -56,7 +53,7 @@ if your costs are lower (cos you're prepared to wear more risk) then your hurdle
 trend-effects, post-earnings announcement drift, business hour seasonal regularities, turn of
 month window-dressing effects.
 
-these things are very well known. Why do they seem to persist?
+these things are very well known. why do they seem to persist?
 
 maybe because they are noisy, blunt, slow converging edges?
 
