@@ -37,8 +37,7 @@ so, you could just trade the leg you think is mispriced and wear the market risk
 
 > short A
 
-this is often acceptable if you're taking a lot of trades: either by turning over fast, or trading
-broad (lots of different stuff).
+this is often acceptable if you're taking a lot of trades: either by turning over fast, or trading broad (lots of different stuff).
 
 doing this, you've exchanged more variance for greater expected returns.
 
