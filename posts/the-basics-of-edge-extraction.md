@@ -24,9 +24,9 @@ but doing useful stuff is a competitive business. It's quite easy to find donkey
 
 so **you need to sniff out less competitive places in which to be useful**. *"doing useful things that suck"**.*** if you don't know what sucks about a trading opportunity, it probably isn't a good one. you're smart but you ain't that smart.
 
-maybe the opportunity doesn't come along that often. maybe it involves trading in less liquid markets and it's hard to get out of positions. maybe you're constrained in the amount of money you can make *(can only eat what you are fed)*. knowing why you can compete is important. 
+maybe the opportunity doesn't come along that often. maybe it involves trading in less liquid markets and it's hard to get out of positions. maybe you're constrained in the amount of money you can make *(can only eat what you are fed)*. **knowing why you can compete is important.** 
 
-this involves **humility** and getting over yourself. you aren't trying to compete in a battle of wits and science in a zero-sum game. you're trying to do helpful things people value and others don't want to do. 
+this involves **humility** and getting over yourself. you aren't trying to compete in a battle of wits and science in a zero-sum game. you're trying to **do helpful things people value and others don't want to do.** 
 
 like a plumber.
 
