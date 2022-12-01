@@ -4,7 +4,7 @@ date: 2022-12-01T04:00:23.576Z
 tags:
   - post
 ---
-[https://youtu.be/iDxMhUxnX](https://youtu.be/iDxMhUxnXsg)a﻿ summary of [this presentation](https://youtu.be/iDxMhUxnXsg)
+a﻿ summary of [this presentation](https://youtu.be/iDxMhUxnXsg) 
 
 **trading is hard.** you should be anxious about the enormity of the task. you need a plan, just as you would with any other business endeavor.
 
