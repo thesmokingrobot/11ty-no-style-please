@@ -20,7 +20,7 @@ so you need to **find occasions when some party (or group) is *price-insensitive
 
 then look to **help them out**, or take the other side. *(we get paid for doing stuff that is useful... things that reduce market impact of others trading, or trades towards market efficiency)*
 
-but doing useful stuff is a competitive business. It's quite easy to find donkeys prepared to trade at bad prices *(hi robinhood users),* but a lot of smarter faster people are competing to trade with them.
+but doing useful stuff is a competitive business. it's quite easy to find donkeys prepared to trade at bad prices *(hi robinhood users),* but a lot of smarter faster people are competing to trade with them.
 
 so **you need to sniff out less competitive places in which to be useful**. *"doing useful things that suck"**.*** if you don't know what sucks about a trading opportunity, it probably isn't a good one. you're smart but you ain't that smart.
 
