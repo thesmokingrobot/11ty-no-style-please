@@ -4,8 +4,6 @@ date: 2022-09-02T00:11:16.157Z
 tags:
   - post
 ---
-why did price move after an expected announcement?
-
 question from friend in twitter dm
 
 > "price moved big after an announcement that was expected; doesn't that mean the market hadn't priced it in right?"
