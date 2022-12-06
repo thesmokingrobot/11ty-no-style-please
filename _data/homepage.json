@@ -3,15 +3,15 @@
   "subtitle": "beep...boop",
   "menu": [
     {
-      "title": "i'm doing zoom lessons, with my friend kris, free to anyone who wants to attend",
+      "title": "i'm did some zoom lessons, with my friend kris, free to anyone who wanted to attend",
       "entries": [
         {
-          "title": "28 nov: basics of edge extraction",
+          "title": "1. basics of edge extraction",
           "url": "https://youtu.be/iDxMhUxnXsg"
         },
         {
-          "title": "6 dec: data analysis for traders",
-          "url": "https://us02web.zoom.us/webinar/register/WN_f2l3_L7_TcuzmzP27w0GhQ"
+          "title": "2. data analysis for traders",
+          "url": "https://www.youtube.com/watch?v=Nbq5eyVk-0w"
         }
       ],
       "url": ""
