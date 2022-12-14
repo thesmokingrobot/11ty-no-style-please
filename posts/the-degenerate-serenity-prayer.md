@@ -4,9 +4,7 @@ date: 2022-12-14T01:30:55.872Z
 tags:
   - post
 ---
-many engineer-types approaching the market want to believe there is some ex-ante-knowable process generating asset prices...
-
-and that the job of the investor is to model that process and come up with optimal investment decisions.
+many engineer-types approaching the market want to believe there is some ex-ante-knowable process generating asset prices... and that the job of the investor is to model that process and come up with optimal investment decisions.
 
 that path leads to madness.
 
