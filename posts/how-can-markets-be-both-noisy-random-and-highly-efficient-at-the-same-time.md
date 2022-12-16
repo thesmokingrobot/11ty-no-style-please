@@ -1,5 +1,5 @@
 ---
-title: how can markets be both noisy/random and highly efficient at the same time
+title: how can markets be both noisy/random and highly efficient at the same time?
 date: 2022-12-16T20:30:11.599Z
 tags:
   - post
