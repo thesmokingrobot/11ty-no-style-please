@@ -4,13 +4,21 @@ date: 2023-01-02T21:51:07.064Z
 tags:
   - post
 ---
+g﻿ather around, friends. 
+
 let's talk about various manipulative shenanigans that used to go on at FTX.
 
-we'll start with something widespread on sh1tcoin perpetual futures: funding rate manipulation.
+we'll start with something widespread on sh1tcoin perpetual futures: **funding rate manipulation.**
 
-if you looked at trades in the trash that FTX listed, you'd see all these min qty trades
+if you looked at trades in the trash that FTX listed, you'd see a lot of min qty trades.
 
-what are they?
+
+
+> what are they?
+
+![](/media/perp1.png)
+
+![](/media/perp1.jpg)
 
 ![](/media/perp1.png)
 
