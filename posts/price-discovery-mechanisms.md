@@ -78,6 +78,8 @@ this usually happens because:
 
 t﻿here's a lot to say about quirks of the individual mechanisms *(esp when similar things trade in different places)* and ocasionally a lot of value in going deep on that...
 
-.﻿.. but the overall goals and games of market price discovery mechanisms tend to look roughly the same.
+.﻿.. but the overall goals and exploitative games of market price discovery mechanisms tend to look roughly the same. 
+
+.﻿..
 
 b﻿eep....boop.
