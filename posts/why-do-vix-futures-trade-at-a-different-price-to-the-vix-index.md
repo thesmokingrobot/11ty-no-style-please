@@ -239,7 +239,7 @@ it consists mostly of two components:
 
 .﻿..
 
-i﻿n the next article, i'll discuss how you can apply these concepts to a systematic carry trade.
+i﻿n the [next article](https://therobotjames.com/posts/carrywhoring-with-vix-futures/), i discuss how you can apply these concepts to a systematic carry trade.
 
 .﻿..
 
