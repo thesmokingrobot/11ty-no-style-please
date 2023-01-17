@@ -178,7 +178,9 @@ the real work is in the forecast. hints:
 
 honestly, the first one is probably good enough to get you started.
 
-g﻿ood luck.
+g﻿ood luck and be careful out there.
+
+![](/media/fin.jpg)
 
 .﻿..
 
