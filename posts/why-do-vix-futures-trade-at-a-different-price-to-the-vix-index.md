@@ -18,7 +18,7 @@ pull up a chart of the vix index.
 
 if you're an experienced trader, you'll recognize immediately that this is not a thing you can trade.
 
-why?
+> *why?*
 
 cos it wouldn't look like that if people could trade it.
 
@@ -27,7 +27,7 @@ cos, just by eyeballing the time series chart, you can tell vix is very predicta
 * it stays about the same in the short term
 * but if it's low it's more likely to go up
 * and if it's high it's more likely to go down
-* it has a floor under which it's unlikely to go lower
+* it has a floor under which it's unlikely to go lower.
 
 ![](/media/vix2.jpg)
 
@@ -54,10 +54,10 @@ but let's keep pretending we can trade it cos i have another important point to 
 
 look at the vix chart again and pretend you can trade it.
 
-which trade would be easier?
-
-* long when it's low?
-* short when it's high?
+> *which trade would be easier?*
+>
+> * *long when it's low?*
+> * *short when it's high?*
 
 the long is easier, right? 
 
@@ -83,7 +83,7 @@ important point 2: **if you could trade vix you'd rather buy it than sell it.**
 
 ![](/media/vix7.jpg)
 
-probably time to explain what vix actually is, eh?
+> probably time to explain what vix actually is, eh?
 
 we're gonna hand-wave this a bit, cos it's not actually that crucial to the main question here.
 
@@ -115,7 +115,7 @@ now, a lot was glossed over there.
 
 but we don't need to have much more than a good insight into risk preferences to understand why tradeable vix derivatives trade at different prices to the vix index. 
 
-so let's introduce ourselves to vix futures.
+**so let's introduce ourselves to vix futures.**
 
 a vix futures contract is basically a bet on the future value of the vix index.
 
@@ -141,28 +141,28 @@ you made $1k
 
 ![](/media/vix13.png)
 
-i knownow that was boring, but i thought that detail was important to cover. 
+i know that was boring, but i thought that detail was important to cover. 
 
 from now on we're just going to talk about prices in vix terms.
 
 the important thing is this... 
 
-**we know the price of the vix future will converge with the value of the vix index at expiry.**
+we know the price of the vix future will converge with the value of the vix index at expiry.
 
-**and we know we can't trade vix, so there's no arb trade between index and futures.** 
+and we know we can't trade vix, so there's no arb trade between index and futures. 
 
 **so there's no invisible force tethering the vix futures to the *current* vix index value.**
 
 ![](/media/vix14.jpg)
 
-so vix futures are really just bets on the *future* value of vix.
+**so vix futures are really just bets on the *future* value of vix.**
 
-and what do we recall about vix from earlier?
+> *and what do we recall about vix from earlier?*
 
 1. it's predictable
 2. if we *could* trade it, we'd rather be long than short.
 
-**so we would expect these 2 things to be represented in the vix futures price.** 
+so we would expect these 2 things to be represented in the vix futures price. 
 
 .﻿..
 
@@ -176,7 +176,7 @@ the jan vix futures expire in 15 days, what price do they trade at?
 
 consider that, for them to trade, a buyer and seller must both be happy to trade at that price.
 
-*would you be happy to buy jan vix futures at 9.2?*
+> *would you be happy to buy jan vix futures at 9.2?*
 
 hell yeah you would!
 
@@ -188,7 +188,7 @@ long at 9.2 would be a nice positive expectation bet with limited downside and h
 
 ![](/media/vix16.jpg)
 
-*would you be happy to sell jan vix futures at 9.2?*
+> *would you be happy to sell jan vix futures at 9.2?*
 
 hell no you would not!
 
@@ -214,7 +214,7 @@ so:
 
 l﻿et's check if this actually happened...
 
-go to http://vixcentral.com and click "historical prices" and go back to 3rd jan '18. 
+go to <http://vixcentral.com> and click "historical prices" and go back to 3rd jan '18. 
 
 the jan futures contract, expiring in 15 days, is priced at 10.7 - which is 1.5 points higher than the vix index.
 
