@@ -1,6 +1,6 @@
 ---
 title: scaling is hard
-date: 2022-01-16T01:00:00.000Z
+date: 2023-01-16T01:00:00.000Z
 tags:
   - post
 ---
