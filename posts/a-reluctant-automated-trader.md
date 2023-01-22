@@ -16,11 +16,11 @@ a few reasons:
 
  when other traders watch me do my thing, it looks like I have a bunch of unnecessary repetitive manual processes that could and should be automated.
 
-> "automate the boring stuff" they have been told.
+*"automate the boring stuff"* they have been told.
 
 so, they want to automate things or make me tools to help.
 
-i appreciate this, but I don't want it.
+i appreciate this, but I don't usually want it.
 
 > why?
 
@@ -30,9 +30,9 @@ it's just what I'm currently doing.
 
 but it's exploration. It's going through the line items, it's asking questions, it's dealing with the certainty i'm losing edge.
 
-if you looked in a few weeks it'll look slightly different. 
+if you looked in a few weeks it'll look slightly different. flexibility is incredibly important.
 
-uf you automate and optimize my current process you set it in stone. 
+if you automate and optimize my current process you set it in stone. 
 
 but I never considered it *"The Process"* in the first place, just what I was currently doing.
 
