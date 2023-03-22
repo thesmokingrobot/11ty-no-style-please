@@ -11,7 +11,7 @@ but how could i, some random guy from new zealand who trades in his underpants, 
 
 ![](/media/d-1.jpg)
 
-the short answer is i don’t. 
+**the short answer is i don’t.**
 
 i don’t have a clue. 
 
@@ -19,7 +19,7 @@ thankfully, i don’t need to be able to know what things should be worth all th
 
 it’s enough to be able to find when they’re likely to mispriced, on average.
 
-i concentrate on simple technical supply/demand imbalances.
+**i concentrate on simple technical supply/demand imbalances.**
 
 ![](/media/d-2.jpg)
 
@@ -50,7 +50,7 @@ ideas 1, 2 mean that you can **assume that risk assets are fairly priced most of
 
 ![](/media/d-5.png)
 
-idea 3 means that risk assets tend to trade below where the value implied by their *expected* returns, because they are risky.
+idea 3 means that **risk assets tend to trade below where the value implied by their *expected* returns, because they are risky.**
 
 we call this a **risk premium**. and it is why you expect to make money over the long run long stock indexes, bonds and other diversified risky assets.
 
@@ -112,7 +112,7 @@ instead we have to do a riskier trade where we long the adr, short the foreign s
 
 ![](/media/d-12.jpg)
 
-**similar, slightly more complicated ideas are also vailable.** 
+**more complicated ideas are also available.** 
 
 if you can recreate the payoffs of one thing with another thing, then those things should have the same price.
 
@@ -170,7 +170,7 @@ because whoever was quoting it (alameda or someone they outsourced to, presumabl
 
 until they tightened that up, you could sit and wait and pick off obviously attractive quotes.
 
-**obvious and high-risk reward trades like this can sometimes be found in new and highly fragmented markets.**
+obvious and high-risk reward trades like this can sometimes be found in new and highly fragmented markets.
 
 ### crypto and defi recently gave me an opportunity to be involved in obvious trades like this.
 
@@ -191,7 +191,7 @@ i mostly did this on-chain on solana, where massive execution variance further a
 
 ![](/media/d-18.png)
 
-this kind of **obvious high risk-reward fun and games doesn’t last long for dickheads like me, cos they quickly attract other firms who are technically far more capable.**
+this kind of obvious high risk-reward fun and games doesn’t last long for dickheads like me, cos they quickly attract other firms who are technically far more capable.
 
 so, **you can’t depend on trades like these.** they don’t come along all the time and they don’t stay long.
 
@@ -398,7 +398,7 @@ but the idea is basically the same.
 
 get paid to donk back things that are likely, on average, to be dislocations caused by lumpy flow.
 
-> most of statistical arbitrage is this idea.** 
+> most of statistical arbitrage is this idea.
 > 
 > you’re fading relative dislocations and trying to offset the risk as best you can.
  
