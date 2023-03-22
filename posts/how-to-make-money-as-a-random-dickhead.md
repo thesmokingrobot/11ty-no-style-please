@@ -553,8 +553,8 @@ good luck in your trading, friends.
 
 beep...boop.
 
-## a course i'm teaching 
+## a course i'm teaching with euan sinclair
 
 oh, and if you made it this far, you'll like this course on option trading i'm teaching with euan sinclair. these ideas are discussed there as well as lots of examples of options trades. 
 
-you can register here: https://www.investorsalley.com/landing/the-quant-course-hedge-fund-strategies-for-retail-investors/?a=8908&utm_campaign=tcq&utm_source=robotwealth&utm_medium=email&t=tcqdedpattcqlarbwlt032023
+you can find out about that here: https://twitter.com/therobotjames/status/1638312972421570560?s=20
