@@ -36,33 +36,31 @@ i think it can mostly be explained by the following ideas.
 1. stuff that's the same should have the same price
 2. predictable things about the future are incorporated in the price of the thing today
 3. ppl will sell you nasty stuff at a discount
-4a. people who don't care about price distort prices
-4b. forced or constrained people distort prices
-4c. positional imbalances can create price distortions.
+4. people who don't care about price distort prices
+5. forced or constrained people distort prices
+6. positional imbalances can create price distortions.
 
 ![](/media/d-4.jpg)
 
 if you’re in a hurry, the main point of this thread is that:
 
-ideas 1, 2 mean that you can assume that risk assets are fairly priced most of the time. 
+ideas 1, 2 mean that you can **assume that risk assets are fairly priced most of the time.** 
 
-(or, at least, they are on average and ppl like me can’t really tell when they’re not.)
+*(or, at least, they are on average and ppl like me can’t really tell when they’re not.)*
 
 ![](/media/d-5.png)
 
 idea 3 means that risk assets tend to trade below where the value implied by their *expected* returns, because they are risky.
 
-we call this a risk premium. and it is why you expect to make money over the long run long stock indexes, bonds and other diversified risky assets.
+we call this a **risk premium**. and it is why you expect to make money over the long run long stock indexes, bonds and other diversified risky assets.
 
 ![](/media/d-6.png)
 
-by the time we get to ideas 4 and 5, we can simplify to “assets probably trade around where they should be most of the time, given how risky they are”
+by the time we get to ideas 4 and 5, we can simplify to **“assets probably trade around where they should be most of the time, given how risky they are”**
 
 this is good news because it means we can stop worrying about modelling this. The market probably got it right enough, at least on average.
 
-and if we're fishing for inefficiencies, as a random dickhead, we can focus on idea 4.
-
-technical supply/demand imbalances created by forced or constrained actors are likely to create pricing distortions.
+and if we're fishing for inefficiencies, as a random dickhead, we can focus on idea 4: **technical supply/demand imbalances created by forced or constrained actors are likely to create pricing distortions.**
 
 let's go through the full list tho, and discuss how edge can be extracted.
 
@@ -75,9 +73,10 @@ trivial example: if shares in the same asset trade on two different exchanges, t
 ![](/media/d-8.png)
 
 if they didn't you could:
- > buy it where it's cheap
- > sell it where it's rich
- > profit
+
+* buy it where it's cheap
+* sell it where it's rich
+* profit
 
 ...which would be nice. 
 
@@ -93,7 +92,7 @@ opportunities like this don't sit around long and are mostly out of reach to peo
 
 ![](/media/d-10.jpg)
 
-but similar, riskier, ideas are available. 
+**but similar, riskier, ideas are available.** 
 
 for example, an american depository receipt (adr) is a certificate representing shares in a foreign company that’s listed on a non-us exchange.
 
@@ -109,11 +108,11 @@ but, if the adr is trading cheap, we can’t buy the adr cheap and convert it to
 
 instead we have to do a riskier trade where we long the adr, short the foreign shares, hedge the FX if we have to.
 
-(or, if you’re a degenerate like me, just trade the adr if you think it’s mispriced, and eat the risk or "dirty-hedge" it with a similar stock. and, in the real world, liquidity and funding issues make this trade more complicated than presented here.)
+*(or, if you’re a degenerate like me, just trade the adr if you think it’s mispriced, and eat the risk or "dirty-hedge" it with a similar stock. and, in the real world, liquidity and funding issues make this trade more complicated than presented here.)*
 
 ![](/media/d-12.jpg)
 
-similar, slightly more complicated ideas are available. 
+**similar, slightly more complicated ideas are also vailable.** 
 
 if you can recreate the payoffs of one thing with another thing, then those things should have the same price.
 
@@ -155,25 +154,25 @@ but often you can build a crude model for where it should trade relative to othe
 
 ![](/media/d-16.png)
 
-and, for a short while, you can often get away with trading large deviations from your (knowingly) crappy model.
+and, **for a short while, you can often get away with trading large deviations from your (knowingly) crappy model.**
 
 and you'll carry oun until the environment gets more competitive. then you take your ball and go look for other sloppy opportunities.
 
-**a recent example is the ftx move contract.***
+### a recent example is the ftx move contract.
 
 this was basically a straddle, struck at a non-standard price, plus some other quirks.
 
 so you have could built a crappy model of where it should trade, based on tradeable options prices and/or views on future volatility.
 
-and it turned out that a crappy model was all you really needed.
+and **it turned out that a crappy model was all you really needed.**
 
 because whoever was quoting it (alameda or someone they outsourced to, presumably) did a lousy job of it to start with.
 
 until they tightened that up, you could sit and wait and pick off obviously attractive quotes.
 
-obvious and high-risk reward trades like this can sometimes be found in new and highly fragmented markets.
+**obvious and high-risk reward trades like this can sometimes be found in new and highly fragmented markets.**
 
-crypto and defi recently gave me an opportunity to be involved in obvious trades like this.
+### crypto and defi recently gave me an opportunity to be involved in obvious trades like this.
 
 crypto is very fragmented. the same (or similar) things trade in lots of places.
 
@@ -185,16 +184,16 @@ it tends to happen in the most liquid asset/venue and then fan out, on a lag.
 
 this meant that simple trades were available that looked like:
 
-“if the price on Binance jumps, race to buy in other places”
-"if the e-mini jumps, spam buy orders on-chain"
+* “if the price on Binance jumps, race to buy in other places”
+* "if the e-mini jumps, spam buy orders on-chain"
 
-i mostly did this on-chain on Solana, where massive execution variance further advantaged opportinistic sniping.
+i mostly did this on-chain on solana, where massive execution variance further advantaged opportinistic sniping.
 
 ![](/media/d-18.png)
 
-this kind of obvious high risk-reward fun and games doesn’t last long for dickheads like me, cos they quickly attract other firms who are technically far more capable.
+this kind of **obvious high risk-reward fun and games doesn’t last long for dickheads like me, cos they quickly attract other firms who are technically far more capable.**
 
-so, you can’t depend on trades like these. they don’t come along all the time and they don’t stay long.
+so, **you can’t depend on trades like these.** they don’t come along all the time and they don’t stay long.
 
 but, when they arrive, get your blood funnel in ‘em, and suck as much money out as you can.
 
@@ -218,7 +217,7 @@ the combined effect of this means it's very hard for an individual to have a bet
 
 and, even if you could do this in one security, it’s very hard to do it with the scale or breadth needed to trade in a persistently profitable way.
 
-so, the idea of me getting edge like this goes straight in the “too hard basket”.
+so, the idea of me getting edge like this goes straight in the **“too hard basket”.**
 
 ![](/media/d-20.png)
 
@@ -232,9 +231,11 @@ it's about the “given the risk” part...
 
 ## idea 3 - people will sell you nasty stuff at a discount
 
-when those ppl with the excel models come up with a price of an asset based on “rational expectations”, they’re going to come up with a number higher than the market price of the thing.
+when those people with the excel models come up with a price of an asset based on “rational expectations”, they’re going to come up with a number higher than the market price of the thing.
 
 ![](/media/d-21.png)
+
+why?
 
 cos people dislike risk and uncertainty. 
 
@@ -256,19 +257,20 @@ so the bond might trade at 80% of its fair value.
 
 the 10% discount between traded price and "rational expectations" represents a “risk premium” for those prepared to take on that risk. 
 
-this is the easiest and least competitive way to make money in financial markets. 
+**this is the easiest and least competitive way to make money in financial markets.**
 
 get paid to take on risk that others are keen to avoid.
 
 ![](/media/d-23.png)
 
-btw, this works the other way around too.
-
-things people like are usually too expensive:
--positive skew
--lottery-like assets with embedded leverage. 
-
-so, avoiding these things (or selling them if you can manage the risk) can be a good idea, too.
+> btw, this works the other way around too.*
+>
+> *things people like are usually too expensive:*
+>
+> * *positive skew*
+> * *lottery-like assets with embedded leverage.*  
+> 
+> so, avoiding these things (or selling them if you can manage the risk) can be a good idea, too.
 
 the wealth management industry is built around these idea.
 
@@ -285,7 +287,7 @@ other opportunities we might put in this “risk premia” basket include:
 - buying discounted close end funds
 - weekend / business hour effects.
 
-i usually camp out in these trades when i don’t have any higher risk-reward ideas i can implement. 
+**i usually camp out in these trades when i don’t have any higher risk-reward ideas i can implement.**
 
 as a result, my pnl stylistically tends to look like this.
 
@@ -293,7 +295,7 @@ short periods of high risk-reward profit broken up by noisy periods of carrywhor
 
 ![](/media/d-24.png)
 
-(i am in carrywhoring phase at the moment) 
+*(i am in carrywhoring phase at the moment)* 
 
 ok phew. 
 
@@ -307,25 +309,22 @@ or, at least, I can’t tell when they’re not, based on fundamentals.
 
 ![](/media/d-25.png)
 
-now, markets are basically supply / demand balancing machines. 
+now, **markets are basically supply / demand balancing machines.** 
 
-excess demand make price go up. 
-
-excess supply make price go down.
+- excess demand make price go up. 
+- excess supply make price go down.
 
 most of the time, supply and demand is strongly dependent on perceived fair value.
 
 ![](/media/d-26.png)
 
-more people will want to buy if they think it's cheap.
-
-more people will want to sell if they think it’s rich. 
+- more people will want to buy if they think it's cheap.
+- more people will want to sell if they think it’s rich. 
 
 but people will trade for all kinds of reasons that have nothing to do with price or value, too.
 
-maybe they're trading simply because they have other objectives?
-
-maybe they're trading cos they have to, even though they don't want to?
+- maybe they're trading simply because they have other objectives?
+- maybe they're trading cos they have to, even though they don't want to?
 
 here are some ways we can take advantage of that.
 
@@ -349,23 +348,23 @@ well, it ain’t rocket surgery.
 
 price is going to go up. way more than it “should”.
 
-large, price-insensitive trading creates pricing distortions when it overwhelms the usual available liquidity.
+**large, price-insensitive trading creates pricing distortions when it overwhelms the usual available liquidity.**
 
 ![](/media/d-29.jpg)
 
 this is usually caused by large traders that don’t care about price, people who *have* to trade (rather than want to), or people with misaligned objectives.
 
-if you can identify this, you can get paid to donk it back.
+if you can identify this, **you can get paid to donk it back.**
 
 ![](/media/d-30.png)
 
 but you don’t necessarily need to know exactly when price dislocations have occurred: just be in position for them, on average. 
 
-being right on average is enough.
+**being right on average is enough.**
 
 this is typically done on a relative value basis.
 
-one of the first systematic trades I ever did was spreading equity index futures against each other. 
+#### one of the first systematic trades I ever did was spreading equity index futures against each other. 
 
 for example, consider the spread between spi (s&p/asx 200 futures) and es (s&p e-mini futures).
 
@@ -387,7 +386,7 @@ but i was generally in position, on average, to take advantage of lumpy flow dis
 
 sitting in roughly the right place, on average, to push back dislocations.
 
-i also did similar trades in STIR futures in a more discretionary manner.
+#### i also did similar trades in STIR futures in a more discretionary manner.
 
 pricing relationships between contracts are easier to quantify than between different equity index futures.
 
@@ -399,9 +398,9 @@ but the idea is basically the same.
 
 get paid to donk back things that are likely, on average, to be dislocations caused by lumpy flow.
 
-most of statistical arbitrage is this idea. 
-
-you’re fading relative dislocations and trying to offset the risk as best you can.
+> most of statistical arbitrage is this idea.** 
+> 
+> you’re fading relative dislocations and trying to offset the risk as best you can.
  
 it’s a crude idea. a blunt approach.
 
@@ -411,7 +410,7 @@ you’re just trying to sit in roughly the right place at the right time, on ave
 
 more interesting trades are available when you can predict when price-insensitive trading is likely to occur.  
 
-if you know some price-insensitive trading is likely to happen, you can get in front of it and then supply to it.
+**if you know some price-insensitive trading is likely to happen, you can get in front of it and then provide to it.**
 
 here’s an obvious example...
 
@@ -437,7 +436,7 @@ the trade didn't have any information associated with it – just someone who ne
 
 so we'd look to get in front of it, selling ahead of the trade. then cover our short as the selling completes.
 
-this actually happened on ftx every day
+**this actually happened on ftx every day.**
 
 it’s due to carelessly executed rebalancing trades from ftx leveraged tokens.
 
@@ -453,13 +452,13 @@ and it’s doing it mechanically, in a price-insensitive way.
 
 and it had exactly the impact we thought it would. 
 
-and, given we knew exactly when it was happening we could position ourselves in advance to front-run it, and then supply to it.
+and, given we knew exactly when it was happening we could position ourselves in advance to front-run it, and then provide to it.
 
 ![](/media/d-37.png)
 
 your trading here is balancing out an imbalance, leading to a slightly more orderly market, and slightly less terrible execution for the fund.
 
-you’re getting paid to smooth out predictable market impact.
+**you’re getting paid to smooth out predictable market impact.**
 
 rebalances, predictable de-leveraging, liquidations, tax harvesting, employee share vesting, dividend reinvestment programs can all be the cause of large predictable price-insensitive that can distort price.
 
@@ -473,7 +472,7 @@ if we plot the mean total log returns for holding a tlt (treasury bond etf) posi
  - negative returns start of month
  - excess positive returns end of month
 
-![](/media/d-38.png)
+![](/media/d-38.jpg)
 
 why?
 
@@ -553,6 +552,8 @@ the best places to go looking for edge are:
 good luck in your trading, friends.
 
 beep...boop.
+
+## a course i'm teaching 
 
 oh, and if you made it this far, you'll like this course on option trading i'm teaching with euan sinclair. these ideas are discussed there as well as lots of examples of options trades. 
 
