@@ -9,7 +9,7 @@ trading requires us to buy things cheaper than they should be / sell things rich
 
 but how could i, some random guy from new zealand who trades in his underpants, know what things should be worth?
 
-![](/media/d-1.png)
+![](/media/d-1.jpg)
 
 the short answer is i don’t. 
 
@@ -21,7 +21,7 @@ it’s enough to be able to find when they’re likely to mispriced, on average.
 
 i concentrate on simple technical supply/demand imbalances.
 
-![](/media/d-2.png)
+![](/media/d-2.jpg)
 
 mostly, i look to get paid to do useful things in uncompetitive places: “doing useful things that suck’
 
@@ -31,7 +31,7 @@ i don’t think the price of a financial asset is a mystery.
 
 i think it can mostly be explained by the following ideas.
 
-![](/media/d-3.png)
+![](/media/d-3.jpg)
 
 1. stuff that's the same should have the same price
 2. predictable things about the future are incorporated in the price of the thing today
@@ -40,7 +40,7 @@ i think it can mostly be explained by the following ideas.
 4b. forced or constrained people distort prices
 4c. positional imbalances can create price distortions.
 
-![](/media/d-4.png)
+![](/media/d-4.jpg)
 
 if you’re in a hurry, the main point of this thread is that:
 
@@ -141,7 +141,7 @@ doing this stuff is a business.
 
 not generally something some dickhead like me can exploit.
 
-![](/media/d-15.jpg)
+![](/media/d-15.png)
 
 **except sometimes i actually can.**
 
@@ -415,7 +415,7 @@ if you know some price-insensitive trading is likely to happen, you can get in f
 
 here’s an obvious example...
 
-![](/media/d-34.jpg)
+![](/media/d-34.png)
 
 go back in time to before sbf stole your money. 
 
@@ -483,7 +483,7 @@ this would result in treasury bonds becoming too rich at month-end
 
 which we’d expect to revert at the start of the next month.
 
-![](/media/d-39.png)
+![](/media/d-39.jpg)
 
 this might be due to:
 - fund managers window-dressing (rotating into more conservative assets for month-end disclosures)
