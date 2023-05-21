@@ -4,8 +4,7 @@ date: 2023-05-22T01:00:00.000Z
 tags:
   - post
 ---
-
-thoughts on statistical inference in adaptive markets via a toy example
+here are some thoughts on statistical inference in adaptive markets via a toy example...
 
 say someone starts coming in every day at 2pm and doing a significantly large TWAP buy. 
 
@@ -30,7 +29,6 @@ but, if we could observe it, let's say that:
 ![](/media/s3.jpeg)
 
 1. the presence of the new liquidity demand makes price go up more if the buyer wasn't there when he's buying
-
 2. the absence of the liquidity demand when it completes makes price subsequently go down more than if the buyer wasn't there in the previous hour
 
 now, imagine that every trader is just a data analyst / data miner, doing statistical inference, waiting for statistically significant things to happen and then acting on them. 
@@ -117,8 +115,9 @@ they miss the juiciest bit. they get the part others have passed up.
 which leads us to a summary point.
 
 if you need to look for market effects that can be shown to be statistically significant, they either need to be:
- -  super weird
- -  very unattractive to exploit (so they persist long enough you can find and exploit them).  
+
+* super weird
+* very unattractive to exploit (so they persist long enough you can find and exploit them).  
 
 the latter tends to be called a risk premium.
 
