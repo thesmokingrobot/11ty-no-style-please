@@ -24,9 +24,9 @@ now... that's not what we necessarily see in the market.
 
 we don't necessarily see price go up and revert nice and clean, cos there are a ton of other things going on at the same time.
 
-but, if we could observe it, let's say that:
-
 ![](/media/s3.jpeg)
+
+but, if we could observe it, let's say that:
 
 1. the presence of the new liquidity demand makes price go up more if the buyer wasn't there when he's buying
 2. the absence of the liquidity demand when it completes makes price subsequently go down more than if the buyer wasn't there in the previous hour
@@ -114,10 +114,10 @@ they miss the juiciest bit. they get the part others have passed up.
 
 which leads us to a summary point.
 
-if you need to look for market effects that can be shown to be statistically significant, they either need to be:
+**if you need to look for market effects that can be shown to be statistically significant, they either need to be:**
 
-* super weird
-* very unattractive to exploit (so they persist long enough you can find and exploit them).  
+* **super weird**
+* **very unattractive to exploit (so they persist long enough you can find and exploit them).**  
 
 the latter tends to be called a risk premium.
 
