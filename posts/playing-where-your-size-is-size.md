@@ -25,7 +25,7 @@ and then hack up the crappiest acceptable first implementation to get in the mar
 for me this is often spreadsheets and clicking, if possible.
 
 
-if not, it's a knowingly sh!tty bot that needs babysitting, based on the simplest signal possible (so i can understand it.)
+if not, it's a knowingly shitty bot that needs babysitting, based on the simplest signal possible (so i can understand it.)
 
 i﻿f you get prissy about it, you'll miss it all.
 
