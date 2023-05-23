@@ -32,9 +32,7 @@ you've got no right betting the farm on coin flip ideas like that.
 
 > "how can i not wreck myself if i'm wrong?"
 
-NOT
-
-> "how can i make the most money, given i know i'm right?"
+NOT "how can i make the most money, given i know i'm right?"
 
 you never know you're right. and, even when you are, there's still a good chance you'll get unlucky.
 
