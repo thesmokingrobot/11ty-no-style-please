@@ -36,15 +36,11 @@ what you would like to do and what others will let you do are different things. 
 * "my return forecast decays fast, so i want to turn over fast - but turning over fast is expensive"
 * etc
 
-these trade-offs add a whole bunch of nuance and complexity to the things above.
-
-you're smoothing everything to make it more auto-correlated so forecasts don't jump around much.
-
-you never really know what forward period you actually want to forecast (you might be making decisions every t - but you certainly don't want to turnover that fast)
-
-you're trying to sensibly navigate the "lower confidence in alpha vs 100% confidence in costs" trade-offs, and you don't really know how to do that cos you can't see the future.
-
-and even when you've managed to isolate and measure and track things as best you can it can feel like the system as a whole is behaving in non-intuitive ways.
+these trade-offs add a whole bunch of nuance and complexity to the things above:
+* you're smoothing everything to make it more auto-correlated so forecasts don't jump around much.
+* you never really know what forward period you actually want to forecast (you might be making decisions every t - but you certainly don't want to turnover that fast)
+* you're trying to sensibly navigate the "lower confidence in alpha vs 100% confidence in costs" trade-offs, and you don't really know how to do that cos you can't see the future.
+* and even when you've managed to isolate and measure and track things as best you can it can feel like the system as a whole is behaving in non-intuitive ways.
 
 ## a lot of work
 
