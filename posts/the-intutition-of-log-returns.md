@@ -1,5 +1,5 @@
 ---
-title: the intutition of log returns
+title: the intuition of log returns
 date: 2023-07-09T23:34:31.959Z
 tags:
   - post
