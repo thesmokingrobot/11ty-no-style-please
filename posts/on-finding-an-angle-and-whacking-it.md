@@ -65,10 +65,10 @@ now, understanding what they're doing, i could try to work out when they're like
 i had a model that (mostly) matched what they're doing.
 
 now i could mark that out and look for circumstances where they're likely to be very wrong. 
+
 and having found some angles, i lay in wait, waiting for them, and i pounced when they occurred - taking as much liquidity as i could.
 
-eventually they notice this, of course. my trades were very obvious in a market like this. 
-but it's hard for them to do anything about it quickly.
+eventually they notice this, of course. my trades were very obvious in a market like this. but it's hard for them to do anything about it quickly.
 
 they are obligated to quote a certain amount a certain distance a certain amount of the time.
 
