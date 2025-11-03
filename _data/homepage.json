@@ -3,6 +3,16 @@
   "subtitle": "observations on the art of trading",
   "menu": [
     {
+      "title": "my newest writing is on substack",
+      "entries": [
+        {
+          "title": "rj's things that make money newsletter (substack)",
+          "url": "https://robotjames.substack.com/"
+        }
+      ],
+      "url": ""
+    },    
+    {
       "title": "here is me talking about stuff",
       "entries": [
         {
@@ -36,11 +46,11 @@
           "url": "https://substack.com/profile/7763028-robot-james"
         },
         {
-          "title": "i teach a course on options trading with euan sinclair here",
+          "title": "i taught a course on options trading with euan sinclair here",
           "url": "https://www.investorsalley.com/quant-course-james"
         },
         {
-          "title": "i teach a course with robotwealth.com here",
+          "title": "i used to teach a course with robotwealth.com here",
           "url": "http://robotwealth.com"
         }
       ]
