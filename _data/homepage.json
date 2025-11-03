@@ -3,11 +3,15 @@
   "subtitle": "observations on the art of trading",
   "menu": [
     {
-      "title": "my newest writing is on substack",
+      "title": "things i'm currently doing",
       "entries": [
         {
-          "title": "rj's things that make money newsletter (substack)",
+          "title": "writing on substack (rj's things that make money newsletter)",
           "url": "https://robotjames.substack.com/"
+        },
+        {
+          "title": "building quant trading models at hypertrend.xyz",
+          "url": "https://hypertrend.xyz/"
         }
       ],
       "url": ""
@@ -24,11 +28,11 @@
           "url": "https://www.youtube.com/watch?v=7DohvPGMwyY"
         },
         {
-          "title": "1. basics of edge extraction (with my friend kris)",
+          "title": "1. basics of edge extraction (with my friend and ex-colleague kris)",
           "url": "https://youtu.be/iDxMhUxnXsg"
         },
         {
-          "title": "2. data analysis for traders (with my friend kris)",
+          "title": "2. data analysis for traders (with my friend and ex-colleague kris)",
           "url": "https://www.youtube.com/watch?v=Nbq5eyVk-0w"
         }
       ],
@@ -42,7 +46,7 @@
           "url": "https://twitter.com/therobotjames"
         },
         {
-          "title": "i'm on substack here (i haven't written anything yet)",
+          "title": "i'm on substack here",
           "url": "https://substack.com/profile/7763028-robot-james"
         },
         {
